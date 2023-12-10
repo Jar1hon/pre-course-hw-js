@@ -9,4 +9,4 @@ let passport1 = {
 };
 
 console.log(passport.name);
-console.log(passport.name);
+console.log(passport1.name);
