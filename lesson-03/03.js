@@ -11,4 +11,8 @@ const fruits = [
   "персик",
 ];
 
+<<<<<<< HEAD
 console.log(fruits.slice(1, -2));
+=======
+console.log(fruits.slice(-9, 7));
+>>>>>>> 375e159242d19509557d9aef31e0336b25deb835
