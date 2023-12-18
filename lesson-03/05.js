@@ -27,3 +27,5 @@ const newObj = {
 };
 
 users2.push(newObj);
+
+console.log(users2);
